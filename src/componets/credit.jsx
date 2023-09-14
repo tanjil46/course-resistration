@@ -8,7 +8,7 @@ return(
    
     <div className="">
     
-     <div className="flex items-center gap-2 bg-slate-600 p-3 rounded-lg my-4">
+     <div className="flex items-center gap-2 bg-slate-600 p-3 rounded-lg my-4 mr-3">
       <img className='w-[90px]' src={image}></img>
       <p className='text-base text-white '>{course_name}</p>
 

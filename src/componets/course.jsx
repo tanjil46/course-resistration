@@ -12,7 +12,7 @@ export default function Course({course,showcardHandler}){
  return(
   
      
-     <div className=" lg:w-[350px] text-center my-5 space-y-4">
+     <div className=" w-[350px] text-center my-5 space-y-4">
      <img className='mx-auto' src={image} alt='image of course'></img>
      <p className='font-bold text-xl'>{course_name}</p>
      <h1>{details}</h1>
