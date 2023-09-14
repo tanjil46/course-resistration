@@ -1,4 +1,4 @@
-
+import { FaDollarSign,FaBookmark } from "react-icons/fa"
 import PropTypes from 'prop-types';
 export default function Course({course,showcardHandler}){
 
@@ -18,8 +18,8 @@ export default function Course({course,showcardHandler}){
      <h1>{details}</h1>
 
      <div className="flex justify-center gap-3">
-        <p className="text-xl">Price: {price}Hr </p>
-        <h2 className="text-xl">Credit:  {credit}Hr</h2>
+      <p className="text-xl"> <button><FaDollarSign></FaDollarSign></button>Price: {price}</p> 
+        <h2 className="text-xl"><button><FaBookmark></FaBookmark></button> Credit:  {credit}Hr</h2>
      </div>
       <div className="pt-3">
         <button onClick={()=>showcardHandler(course)} className='bg-blue-600 py-3 px-5 w-[220px] rounded-lg hover:bg-blue-500 text-white font-bold'>Select</button>
