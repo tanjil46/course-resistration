@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/CB6rJf0/Rectangle-2.png",
+      "course_name": "Introduction to Programming",
+      "credit": 2,
+      "price": 299.99,
+      "details": "Learn the basics of programming with this beginner-friendly course."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/F4vL3tz/Rectangle-2-1.png",
+      "course_name": "Data Science Fundamentals",
+      "credit": 6,
+      "price": 449.99,
+      "details": "Explore the world of data science and analytics in this comprehensive course."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/93nLMPM/Rectangle-2-2.png",
+      "course_name": "Web Development Bootcamp",
+      "credit": 8,
+      "price": 599.99,
+      "details": "Master web development technologies and build interactive websites."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/DM9gdRx/Rectangle-2-3.png",
+      "course_name": "Digital Marketing Strategies",
+      "credit": 5,
+      "price": 349.99,
+      "details": "Discover effective digital marketing tactics and grow your online presence."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/crDJmJY/Rectangle-2-4.png",
+      "course_name": "Graphic Design Essentials",
+      "credit": 1,
+      "price": 249.99,
+      "details": "Create stunning visual content with this graphic design course."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/ysDhq6G/Rectangle-2-5.png",
+      "course_name": "Business Finance Mastery",
+      "credit": 2,
+      "price": 499.99,
+      "details": "Learn the principles of finance and make sound business decisions."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/n3mg1xt/Rectangle-2-6.png",
+      "course_name": "Artificial Intelligence in Healthcare",
+      "credit": 3,
+      "price": 399.99,
+      "details": "Explore AI applications in healthcare for better patient outcomes."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/KrtxHjy/Rectangle-3.png",
+      "course_name": "Photography for Beginners",
+      "credit": 7,
+      "price": 199.99,
+      "details": "Capture beautiful moments with your camera in this photography course."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/QY0ySTL/Rectangle-3-1.png",
+      "course_name": "Cybersecurity Essentials",
+      "credit": 7,
+      "price": 449.99,
+      "details": "Protect digital assets and data with essential cybersecurity skills."
+    }
+  ]
+  
